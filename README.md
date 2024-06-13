@@ -17,9 +17,6 @@
 
 🚀 Graduated in Information Systems Engineering with experience as a Full Stack developer. I specialize in creating API REST applications using Spring Boot and developing user interfaces with Angular and React. Experience in the world of CI/CD, interested in delving deeper into AWS, DevOps, Docker, Kubernetes, Cloud, infrastructure and microservices architecture.
 
-📄 &nbsp;Please have a look at my [Resume](https://cv.vgiardino.com) for more details about me. I'm open to feedback and suggestions!
-
-
 <!--<img height="180em" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->
 
 ## 🛠 &nbsp;Languages and Tools
