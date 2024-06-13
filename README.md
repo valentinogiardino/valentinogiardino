@@ -1,7 +1,7 @@
-<!--![Valentino Giardino Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)-->
+<!--<![Valentino Giardino Banner](https://github.com/Adityakanoi2001/ASK/blob/28411921ee8f932e339cff3cf15830aa865eeff4/assets/header.png)-->
+
 ![Valentino Giardino Banner](https://raw.githubusercontent.com/valentinogiardino/valentinogiardino/main/assets/git-banner2.webp)
 
-<!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Valentino Giardino</h2>-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Valentino+Giardino;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
 # 💫 About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>:
